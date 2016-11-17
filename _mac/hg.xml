@@ -1,0 +1,12 @@
+<application>
+  <component name="HgGlobalSettings">
+    <option name="myHgExecutable" value="/usr/local/bin/hg" />
+    <option name="myRememberedUserNames">
+      <map>
+        <entry key="sfo-eis-hg01.exigengroup.com/hg/eis-billing-central/" value="vbaracevicius" />
+        <entry key="vno-hg.exigengroup.com/hg/eis-benefits-billing" value="vbaracevicius" />
+        <entry key="vno-hg.exigengroup.com/hg/eis-benefits-billingteam" value="vbaracevicius" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,24 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project 'ak-app'" />
+    <option name="defaultScopeName" value="Project 'ak-app'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'ak-app'" />
+    <recentFileMasks>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.as</mask>
+      <mask>*.mxml</mask>
+      <mask>*.js</mask>
+      <mask>*.scss</mask>
+      <mask>java</mask>
+      <mask>*.properties</mask>
+      <mask>*.inc.xhtml</mask>
+      <mask>*.css</mask>
+      <mask>*.xml</mask>
+      <mask>*.xhtml</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>

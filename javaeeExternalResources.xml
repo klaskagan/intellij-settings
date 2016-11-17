@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="https://raw.githubusercontent.com/nkatsar/logback-XSD/master/src/main/xsd/logback.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea15/extResources/4f687139_logback.xsd" />
+  </component>
+</application>

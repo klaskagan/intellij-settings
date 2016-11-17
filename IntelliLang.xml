@@ -1,0 +1,56 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <option name="INSTRUMENTATION" value="ASSERT" />
+    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
+    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
+    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
+    <option name="INCLUDE_UNCOMPUTABLES_AS_LITERALS" value="true" />
+    <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="HQL" injector-id="java">
+      <display-name>EntityManager (javax.persistence)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").withParameters("java.lang.String").definedInClass("javax.persistence.EntityManager"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("javax.persistence.EntityManager"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").withParameters("java.lang.String", "java.lang.String").definedInClass("javax.persistence.EntityManager"))]]></place>
+    </injection>
+    <injection language="HQL" injector-id="java">
+      <display-name>EntityManager (javax.persistence)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("javax.persistence.EntityManager"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("javax.persistence.EntityManager"))]]></place>
+    </injection>
+    <injection language="JPAQL" injector-id="java">
+      <display-name>QBuilder (com.exigen.ipb.billing.dao)</display-name>
+      <prefix>{</prefix>
+      <suffix>}</suffix>
+      <place disabled="true"><![CDATA[psiMethod().withName("build").withParameters().definedInClass("com.exigen.ipb.billing.dao.QBuilder")]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("QBuilder").withParameters("java.lang.String").definedInClass("com.exigen.ipb.billing.dao.QBuilder"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("set").withParameters("java.lang.String", "java.lang.Class").definedInClass("com.exigen.ipb.billing.dao.QBuilder"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("set").withParameters("java.lang.String", "java.lang.Enum").definedInClass("com.exigen.ipb.billing.dao.QBuilder"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("set").withParameters("java.lang.String", "java.lang.String").definedInClass("com.exigen.ipb.billing.dao.QBuilder"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("set").withParameters("java.lang.String", "java.lang.String").definedInClass("com.exigen.ipb.billing.dao.QBuilder"))]]></place>
+    </injection>
+    <injection language="HQL" injector-id="java">
+      <display-name>SimpleQueryBuilder.appendConditionNotEmpty (com.exigen.ipb.billing.dao)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("appendConditionNotEmpty").withParameters("java.lang.String", "java.lang.String", "java.lang.String", "java.lang.Object").definedInClass("com.exigen.ipb.billing.dao.SimpleQueryBuilder"))]]></place>
+    </injection>
+    <injection language="JavaScript" injector-id="xml">
+      <display-name>ajax/@oncomplete</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("oncomplete")).withParent(xmlTag().withLocalName(string().equalTo("ajax")).withNamespace(string().equalTo("http://primefaces.org/ui")))]]></place>
+    </injection>
+    <injection language="JavaScript" injector-id="xml">
+      <display-name>ajax/@onstart</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("onstart")).withParent(xmlTag().withLocalName(string().equalTo("ajax")).withNamespace(string().equalTo("http://primefaces.org/ui")))]]></place>
+    </injection>
+    <injection language="JavaScript" injector-id="xml">
+      <display-name>dialog/@onHide</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("onHide")).withParent(xmlTag().withLocalName(string().equalTo("dialog")).withNamespace(string().equalTo("http://primefaces.org/ui")))]]></place>
+    </injection>
+    <injection language="GenericSQL" injector-id="xml">
+      <display-name>sql</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("sql")).withNamespace(string().equalTo("http://www.liquibase.org/xml/ns/dbchangelog"))]]></place>
+    </injection>
+    <injection language="RegExp" injector-id="xml">
+      <display-name>validateRegex/@pattern</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("pattern")).withParent(xmlTag().withLocalName(string().equalTo("validateRegex")).withNamespace(string().equalTo("http://xmlns.jcp.org/jsf/core")))]]></place>
+    </injection>
+  </component>
+</application>
