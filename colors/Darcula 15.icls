@@ -1,4 +1,7 @@
 <scheme name="Darcula 15" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="modified">2016-11-23T11:16:59</property>
+  </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
