@@ -5,6 +5,7 @@
     <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="MAX_CLIPBOARD_CONTENTS" value="10" />
+    <option name="MAX_LOOKUP_WIDTH2" value="1011" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="12" />
     <option name="MERGE_EQUAL_STACKTRACES" value="false" />
   </component>
