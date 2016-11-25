@@ -48,6 +48,10 @@
       <display-name>sql</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("sql")).withNamespace(string().equalTo("http://www.liquibase.org/xml/ns/dbchangelog"))]]></place>
     </injection>
+    <injection language="SQL" injector-id="xml">
+      <display-name>sqlCheck</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("sqlCheck")).withNamespace(string().equalTo("http://www.liquibase.org/xml/ns/dbchangelog"))]]></place>
+    </injection>
     <injection language="RegExp" injector-id="xml">
       <display-name>validateRegex/@pattern</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("pattern")).withParent(xmlTag().withLocalName(string().equalTo("validateRegex")).withNamespace(string().equalTo("http://xmlns.jcp.org/jsf/core")))]]></place>
