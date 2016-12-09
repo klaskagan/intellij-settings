@@ -1,11 +1,14 @@
 <scheme name="Darcula 15" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="modified">2016-11-23T11:16:59</property>
+    <property name="modified">2016-12-09T14:07:53</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <colors>
+    <option name="FILESTATUS_RENAMED" value="7a7a" />
+  </colors>
   <attributes>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
