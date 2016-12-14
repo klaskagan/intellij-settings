@@ -1,0 +1,8 @@
+<templateSet group="html/xml">
+  <template name="changelog" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;databaseChangeLog xmlns=&quot;http://www.liquibase.org/xml/ns/dbchangelog&quot;&#10;                   xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:ext=&quot;http://www.liquibase.org/xml/ns/dbchangelog-ext&quot;&#10;                   xsi:schemaLocation=&quot;http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.0.xsd&#10;                      http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd&quot;&gt;&#10;    &#10;    $CHANGESET$&#10;    &#10;&lt;/databaseChangeLog&gt;" description="Changelog template" toReformat="false" toShortenFQNames="true">
+    <variable name="CHANGESET" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>
