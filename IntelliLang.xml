@@ -28,6 +28,10 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("set").withParameters("java.lang.String", "java.lang.String").definedInClass("com.exigen.ipb.billing.dao.QBuilder"))]]></place>
       <place disabled="true"><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("set").withParameters("java.lang.String", "java.lang.String").definedInClass("com.exigen.ipb.billing.dao.QBuilder"))]]></place>
     </injection>
+    <injection language="JPAQL" injector-id="java">
+      <display-name>SimpleQueryBuilder.appendConditionHasLength (com.exigen.ipb.billing.dao)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("appendConditionHasLength").withParameters("java.lang.String", "java.lang.String", "java.lang.String", "java.lang.Object").definedInClass("com.exigen.ipb.billing.dao.SimpleQueryBuilder"))]]></place>
+    </injection>
     <injection language="HQL" injector-id="java">
       <display-name>SimpleQueryBuilder.appendConditionNotEmpty (com.exigen.ipb.billing.dao)</display-name>
       <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("appendConditionNotEmpty").withParameters("java.lang.String", "java.lang.String", "java.lang.String", "java.lang.Object").definedInClass("com.exigen.ipb.billing.dao.SimpleQueryBuilder"))]]></place>
