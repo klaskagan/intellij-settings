@@ -5,7 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Module 'ipb-billing-benefits-ui'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xhtml" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -18,8 +18,8 @@
       <mask>*.inc.xhtml</mask>
       <mask>*.css</mask>
       <mask>*.xml</mask>
-      <mask>*.xhtml</mask>
       <mask>*.java</mask>
+      <mask>*.xhtml</mask>
     </recentFileMasks>
   </component>
 </application>
