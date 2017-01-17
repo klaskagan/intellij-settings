@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'ipb-billing-benefits-ui'" />
-    <option name="defaultScopeName" value="Module 'ipb-billing-benefits-ui'" />
+    <option name="customScope" value="File '.../benefits/ipb-billing-benefits-services/src/main/java/com/exigen/ipb/billing/benefits/invoice/dao/InvoiceJpaDao.java - [ipb-billing-benefits-services]'" />
+    <option name="defaultScopeName" value="File '.../benefits/ipb-billing-benefits-services/src/main/java/com/exigen/ipb/billing/benefits/invoice/dao/InvoiceJpaDao.java - [ipb-billing-benefits-services]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'ipb-billing-benefits-ui'" />
+    <option name="SEARCH_SCOPE" value="File '.../benefits/ipb-billing-benefits-services/src/main/java/com/exigen/ipb/billing/benefits/invoice/dao/InvoiceJpaDao.java - [ipb-billing-benefits-services]'" />
     <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
       <mask>*.html</mask>
