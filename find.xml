@@ -1,25 +1,25 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../benefits/ipb-billing-benefits-services/src/main/java/com/exigen/ipb/billing/benefits/invoice/dao/InvoiceJpaDao.java - [ipb-billing-benefits-services]'" />
-    <option name="defaultScopeName" value="File '.../benefits/ipb-billing-benefits-services/src/main/java/com/exigen/ipb/billing/benefits/invoice/dao/InvoiceJpaDao.java - [ipb-billing-benefits-services]'" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../benefits/ipb-billing-benefits-services/src/main/java/com/exigen/ipb/billing/benefits/invoice/dao/InvoiceJpaDao.java - [ipb-billing-benefits-services]'" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.js</mask>
-      <mask>*.scss</mask>
       <mask>java</mask>
       <mask>*.inc.xhtml</mask>
       <mask>*.css</mask>
       <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.xhtml</mask>
       <mask>*.properties</mask>
+      <mask>*.scss</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
