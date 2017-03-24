@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="customScope" value="File '.../benefits/ipb-billing-benefits-services/src/main/java/com/exigen/ipb/billing/benefits/payment/services/impl/DefaultPaymentManager.java - [ipb-billing-benefits-services]'" />
+    <option name="defaultScopeName" value="File '.../benefits/ipb-billing-benefits-services/src/main/java/com/exigen/ipb/billing/benefits/payment/services/impl/DefaultPaymentManager.java - [ipb-billing-benefits-services]'" />
+    <option name="SEARCH_SCOPE" value="File '.../benefits/ipb-billing-benefits-services/src/main/java/com/exigen/ipb/billing/benefits/payment/services/impl/DefaultPaymentManager.java - [ipb-billing-benefits-services]'" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
