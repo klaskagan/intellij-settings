@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="catalina">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Applications/apache-tomcat-8.5.9/lib/catalina.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/src/apache-tomcat-8.5.9-src/java" />
+        <root url="file://$USER_HOME$/src/apache-tomcat-8.5.9-src/modules/jdbc-pool/src/main/java" />
+        <root url="file://$USER_HOME$/src/apache-tomcat-8.5.9-src/modules/jdbc-pool/src/test/java" />
+      </SOURCES>
+    </library>
     <library name="groovy-2.4.7">
       <CLASSES>
         <root url="jar://$USER_HOME$/.sdkman/candidates/groovy/current/lib/ant-1.9.4.jar!/" />
