@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../ipb-billing-ws-impl/src/main/java/com/exigen/ipb/billing/rest/service/impl/AccountsRestService.java - [ipb-billing-ws-impl]'" />
-    <option name="defaultScopeName" value="File '.../ipb-billing-ws-impl/src/main/java/com/exigen/ipb/billing/rest/service/impl/AccountsRestService.java - [ipb-billing-ws-impl]'" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../ipb-billing-ws-impl/src/main/java/com/exigen/ipb/billing/rest/service/impl/AccountsRestService.java - [ipb-billing-ws-impl]'" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.html</mask>
@@ -15,14 +15,24 @@
       <mask>java</mask>
       <mask>*.inc.xhtml</mask>
       <mask>*.css</mask>
-      <mask>*.xml</mask>
-      <mask>*.properties</mask>
       <mask>*.scss</mask>
       <mask>*.xhtml</mask>
-      <mask>*.</mask>
       <mask>*</mask>
       <mask>j</mask>
       <mask>ja</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.prope</mask>
+      <mask>*.properties</mask>
+      <mask>*.propertie</mask>
+      <mask>*.pr</mask>
+      <mask>*.p</mask>
+      <mask>*.jav</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
+      <mask>*.ja</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
