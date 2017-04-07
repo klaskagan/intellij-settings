@@ -9,8 +9,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
@@ -22,11 +22,8 @@
       <mask>*</mask>
       <mask>j</mask>
       <mask>ja</mask>
-      <mask>*.pro</mask>
       <mask>*.prop</mask>
       <mask>*.prope</mask>
-      <mask>*.propertie</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
@@ -34,11 +31,16 @@
       <mask>*.xh</mask>
       <mask>*.xht</mask>
       <mask>*.xhtml</mask>
-      <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.pr</mask>
       <mask>*.properties</mask>
+      <mask>*.propertie</mask>
+      <mask>*.pro</mask>
+      <mask>*.pr</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xmk</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
