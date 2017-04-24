@@ -1,14 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*.jsp</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.js</mask>
@@ -21,10 +16,6 @@
       <mask>ja</mask>
       <mask>*.prop</mask>
       <mask>*.prope</mask>
-      <mask>*.j</mask>
-      <mask>*.xh</mask>
-      <mask>*.xht</mask>
-      <mask>*.xhtml</mask>
       <mask>*.properties</mask>
       <mask>*.propertie</mask>
       <mask>*.pro</mask>
@@ -33,8 +24,13 @@
       <mask>*.xmk</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xh</mask>
+      <mask>*.xht</mask>
+      <mask>*.xhtm</mask>
+      <mask>*.xhtml</mask>
+      <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
