@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*.js</mask>
@@ -14,28 +15,28 @@
       <mask>*.scss</mask>
       <mask>j</mask>
       <mask>ja</mask>
-      <mask>*.prop</mask>
       <mask>*.prope</mask>
-      <mask>*.propertie</mask>
       <mask>*.xmk</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.x</mask>
       <mask>*.xh</mask>
       <mask>*.xht</mask>
       <mask>*.xhtml</mask>
       <mask>*.xhtm</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
       <mask>*.proper</mask>
       <mask>*.properties</mask>
+      <mask>*.propertie</mask>
+      <mask>*.prop</mask>
+      <mask>*.pro</mask>
+      <mask>*.pr</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
