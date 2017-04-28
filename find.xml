@@ -6,23 +6,17 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
-      <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.js</mask>
       <mask>java</mask>
       <mask>*.inc.xhtml</mask>
       <mask>*.css</mask>
       <mask>*.scss</mask>
-      <mask>*</mask>
       <mask>j</mask>
       <mask>ja</mask>
       <mask>*.prop</mask>
       <mask>*.prope</mask>
-      <mask>*.properties</mask>
       <mask>*.propertie</mask>
-      <mask>*.pro</mask>
-      <mask>*.pr</mask>
-      <mask>*.p</mask>
       <mask>*.xmk</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
@@ -30,12 +24,18 @@
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xh</mask>
       <mask>*.xht</mask>
-      <mask>*.xhtm</mask>
       <mask>*.xhtml</mask>
+      <mask>*.xhtm</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.proper</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
