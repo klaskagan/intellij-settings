@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
       <mask>*.js</mask>
       <mask>java</mask>
@@ -13,29 +14,29 @@
       <mask>*.scss</mask>
       <mask>j</mask>
       <mask>ja</mask>
-      <mask>*.prope</mask>
       <mask>*.xmk</mask>
       <mask>*</mask>
-      <mask>*.proper</mask>
       <mask>*.xhml</mask>
-      <mask>*.xhtm</mask>
-      <mask>*.xht</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.pro</mask>
       <mask>*.prop</mask>
-      <mask>*.properties</mask>
       <mask>*.propertie</mask>
       <mask>*.pr</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xh</mask>
       <mask>*.xhtml</mask>
+      <mask>*.xhtm</mask>
+      <mask>*.xht</mask>
+      <mask>*.xh</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pro</mask>
+      <mask>*.prope</mask>
+      <mask>*.proper</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
