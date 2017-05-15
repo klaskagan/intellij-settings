@@ -1,32 +1,22 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.scss</mask>
-      <mask>j</mask>
       <mask>ja</mask>
       <mask>*.xmk</mask>
-      <mask>*</mask>
       <mask>*.xhml</mask>
       <mask>*.ja</mask>
       <mask>*.properti</mask>
       <mask>*.propert</mask>
       <mask>*.prop</mask>
       <mask>*.pr</mask>
-      <mask>*.prope</mask>
       <mask>*.propertie</mask>
       <mask>*.p</mask>
-      <mask>*.pro</mask>
       <mask>*.proper</mask>
-      <mask>*.properties</mask>
       <mask>*.xh</mask>
       <mask>*.xht</mask>
       <mask>*.xhtm</mask>
@@ -35,10 +25,17 @@
       <mask>*.js</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.xml</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.jpro</mask>
+      <mask>*.jproper</mask>
+      <mask>*.jprope</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.pro</mask>
+      <mask>*.prope</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
