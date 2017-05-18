@@ -6,6 +6,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="confluence" type="PLAIN_TEXT" />
+      <mapping ext="capabilities" type="PLAIN_TEXT" />
       <mapping ext="mwb" type="PLAIN_TEXT" />
       <mapping ext="xlf" type="PLAIN_TEXT" />
     </extensionMap>

@@ -1,40 +1,44 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localCaseSensitive" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>ja</mask>
-      <mask>*.xmk</mask>
-      <mask>*.xhml</mask>
-      <mask>*.ja</mask>
-      <mask>*.properti</mask>
-      <mask>*.propert</mask>
-      <mask>*.prop</mask>
-      <mask>*.pr</mask>
-      <mask>*.propertie</mask>
-      <mask>*.p</mask>
       <mask>*.proper</mask>
-      <mask>*.xh</mask>
-      <mask>*.xht</mask>
       <mask>*.xhtm</mask>
-      <mask>*.xhtml</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.xml</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*.jpro</mask>
       <mask>*.jproper</mask>
       <mask>*.jprope</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.pro</mask>
       <mask>*.prope</mask>
+      <mask>*.propertie</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.propertes</mask>
+      <mask>*.es</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xh</mask>
+      <mask>*.xht</mask>
+      <mask>*.xhtml</mask>
+      <mask>*.por</mask>
+      <mask>*.po</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
       <mask>*.properties</mask>
     </recentFileMasks>
   </component>
