@@ -15,7 +15,6 @@
       <mask>*.jprope</mask>
       <mask>*</mask>
       <mask>*.prope</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
@@ -36,6 +35,7 @@
       <mask>*.xht</mask>
       <mask>*.xhtm</mask>
       <mask>*.xhtml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
