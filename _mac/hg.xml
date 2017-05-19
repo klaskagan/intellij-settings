@@ -3,6 +3,7 @@
     <option name="myHgExecutable" value="/usr/local/bin/hg" />
     <option name="myRememberedUserNames">
       <map>
+        <entry key="bitbucket.org/klaskagan/ak-app" value="klaskagan" />
         <entry key="dev5lmbhg101.eqxdev.exigengroup.com/hg/lmb-billing" value="vbaracevicius" />
         <entry key="sfo-eis-hg01.exigengroup.com/hg/eis-billing-central/" value="vbaracevicius" />
         <entry key="vno-hg.exigengroup.com/hg/eis-benefits-billing" value="vbaracevicius" />
