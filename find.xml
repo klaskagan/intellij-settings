@@ -3,11 +3,12 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*.proper</mask>
-      <mask>*.js</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>*.jpro</mask>
@@ -15,27 +16,29 @@
       <mask>*.jprope</mask>
       <mask>*</mask>
       <mask>*.prope</mask>
-      <mask>*.propertes</mask>
       <mask>*.es</mask>
       <mask>*.s</mask>
       <mask>*.por</mask>
       <mask>*.po</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
-      <mask>*.prop</mask>
-      <mask>*.properties</mask>
-      <mask>*.propertie</mask>
-      <mask>*.p</mask>
       <mask>*.xhtml</mask>
       <mask>*.xhtm</mask>
       <mask>*.xht</mask>
       <mask>*.xh</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.propertes</mask>
+      <mask>*.properte</mask>
+      <mask>*.propert</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
