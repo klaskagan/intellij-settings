@@ -23,6 +23,10 @@
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+    <mouse-shortcut keystroke="Force touch" />
+  </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
     <keyboard-shortcut first-keystroke="shift meta r" />
