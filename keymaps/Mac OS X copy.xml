@@ -5,6 +5,18 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
   <action id="EditorTabsGroup">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
