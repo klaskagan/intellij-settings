@@ -86,5 +86,19 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="solr-core-4.10.4-sources">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/src/solr-core-4.10.4-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="solr-solrj-4.10.4-sources">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/src/solr-solrj-4.10.4-sources.jar!/" />
+      </SOURCES>
+    </library>
   </component>
 </application>
