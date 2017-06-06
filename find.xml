@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.xhtml" />
     <recentFileMasks>
       <mask>*.xml</mask>
       <mask>*.jpro</mask>
@@ -31,9 +34,9 @@
       <mask>*.xht</mask>
       <mask>*.xhtm</mask>
       <mask>!*.xhtml</mask>
-      <mask>*.xhtml</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.xhtml</mask>
     </recentFileMasks>
   </component>
 </application>
