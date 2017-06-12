@@ -1,11 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
       <mask>*.jpro</mask>
@@ -21,12 +17,8 @@
       <mask>*.pro</mask>
       <mask>*.propertes</mask>
       <mask>*.properte</mask>
-      <mask>*.x</mask>
-      <mask>*.xh</mask>
-      <mask>*.xht</mask>
       <mask>*.xhtm</mask>
       <mask>!*.xhtml</mask>
-      <mask>*.xhtml</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
       <mask>*.j</mask>
@@ -38,6 +30,10 @@
       <mask>*.propert</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
+      <mask>*.x</mask>
+      <mask>*.xh</mask>
+      <mask>*.xht</mask>
+      <mask>*.xhtml</mask>
     </recentFileMasks>
   </component>
 </application>
