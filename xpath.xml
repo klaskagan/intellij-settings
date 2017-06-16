@@ -2,7 +2,7 @@
   <component name="XPathView.XPathViewPlugin">
     <option name="SEARCH_SCOPE">
       <SearchScope scope-name="Project Files">
-        <moduleName>ipb-billing-ui</moduleName>
+        <moduleName>ipb-billing-benefits-ui</moduleName>
       </SearchScope>
     </option>
   </component>
