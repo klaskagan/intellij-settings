@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.jprope</mask>
       <mask>*.es</mask>
@@ -30,12 +31,12 @@
       <mask>*.xhml</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.java</mask>
       <mask>*.xml</mask>
       <mask>*.x</mask>
       <mask>*.xh</mask>
       <mask>*.xht</mask>
       <mask>*.xhtml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
