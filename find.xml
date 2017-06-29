@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
       <mask>*.jprope</mask>
@@ -18,7 +16,6 @@
       <mask>*.jav</mask>
       <mask>*.j</mask>
       <mask>*.propert</mask>
-      <mask>*.xhtm</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
@@ -27,15 +24,16 @@
       <mask>*.proper</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
-      <mask>*.xhml</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.xml</mask>
+      <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xh</mask>
       <mask>*.xht</mask>
+      <mask>*.xhtm</mask>
+      <mask>*.xml</mask>
+      <mask>*.xhml</mask>
       <mask>*.xhtml</mask>
-      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
