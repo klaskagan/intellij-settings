@@ -3,8 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.properte</mask>
       <mask>!*.xhtml</mask>
       <mask>*.jav</mask>
       <mask>*.j</mask>
@@ -17,22 +17,23 @@
       <mask>*.proper</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
-      <mask>*.xh</mask>
-      <mask>*.xht</mask>
-      <mask>*.xhtm</mask>
       <mask>*.xhml</mask>
-      <mask>*.xhtml</mask>
       <mask>*.html</mask>
       <mask>*.tml</mask>
       <mask>*.ml</mask>
       <mask>*.l</mask>
       <mask>*.zm</mask>
       <mask>*.z</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
+      <mask>*.xht</mask>
+      <mask>*.xml</mask>
       <mask>*.x</mask>
+      <mask>*.xh</mask>
+      <mask>*.xhtml</mask>
+      <mask>*.xhtm</mask>
       <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.ja</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
