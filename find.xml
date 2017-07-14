@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.xhtml" />
     <recentFileMasks>
       <mask>!*.xhtml</mask>
       <mask>*.jav</mask>
@@ -18,7 +19,6 @@
       <mask>*.proper</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
-      <mask>*.xhml</mask>
       <mask>*.html</mask>
       <mask>*.tml</mask>
       <mask>*.ml</mask>
@@ -29,13 +29,14 @@
       <mask>*.xht</mask>
       <mask>*.x</mask>
       <mask>*.xh</mask>
-      <mask>*.xhtml</mask>
       <mask>*.xhtm</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
+      <mask>*.xhml</mask>
+      <mask>*.xhtml</mask>
     </recentFileMasks>
   </component>
 </application>
