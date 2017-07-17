@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
       <mask>!*.xhtml</mask>
@@ -10,7 +12,6 @@
       <mask>*.propert</mask>
       <mask>*.prop</mask>
       <mask>*.proper</mask>
-      <mask>*.propertie</mask>
       <mask>*.html</mask>
       <mask>*.tml</mask>
       <mask>*.ml</mask>
@@ -18,22 +19,23 @@
       <mask>*.zm</mask>
       <mask>*.z</mask>
       <mask>*.xm</mask>
-      <mask>*.xht</mask>
-      <mask>*.x</mask>
-      <mask>*.xh</mask>
-      <mask>*.xhtm</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.xml</mask>
       <mask>*.xhml</mask>
-      <mask>*.xhtml</mask>
-      <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
       <mask>*.prope</mask>
       <mask>*.properties</mask>
+      <mask>*.propertie</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
+      <mask>*.x</mask>
+      <mask>*.xh</mask>
+      <mask>*.xht</mask>
+      <mask>*.xhtm</mask>
+      <mask>*.xhtml</mask>
     </recentFileMasks>
   </component>
 </application>
