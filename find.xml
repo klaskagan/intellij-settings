@@ -8,14 +8,9 @@
       <mask>*.jav</mask>
       <mask>*.j</mask>
       <mask>*.propert</mask>
-      <mask>*.p</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
       <mask>*.prop</mask>
-      <mask>*.prope</mask>
       <mask>*.proper</mask>
       <mask>*.propertie</mask>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.tml</mask>
       <mask>*.ml</mask>
@@ -34,6 +29,11 @@
       <mask>*.xml</mask>
       <mask>*.xhml</mask>
       <mask>*.xhtml</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.prope</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
