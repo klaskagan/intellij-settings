@@ -1,11 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="customScope" value="File '.../ipb-billing-ui/src/main/java/com/exigen/ipb/billing/ui/FilterTransactionsPageBean.java - [ipb-billing-ui]'" />
+    <option name="defaultScopeName" value="File '.../ipb-billing-ui/src/main/java/com/exigen/ipb/billing/ui/FilterTransactionsPageBean.java - [ipb-billing-ui]'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.xhtml" />
+    <option name="SEARCH_SCOPE" value="File '.../ipb-billing-ui/src/main/java/com/exigen/ipb/billing/ui/FilterTransactionsPageBean.java - [ipb-billing-ui]'" />
     <recentFileMasks>
       <mask>*.prop</mask>
       <mask>*.proper</mask>
