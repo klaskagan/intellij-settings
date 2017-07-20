@@ -1,10 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.prop</mask>
       <mask>*.proper</mask>
@@ -16,7 +19,6 @@
       <mask>*.z</mask>
       <mask>*.xm</mask>
       <mask>*</mask>
-      <mask>*.xml</mask>
       <mask>*.xhml</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
@@ -36,6 +38,7 @@
       <mask>*.xht</mask>
       <mask>*.xhtm</mask>
       <mask>*.xhtml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
