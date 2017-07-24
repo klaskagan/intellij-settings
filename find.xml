@@ -5,8 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xhtml" />
     <recentFileMasks>
-      <mask>*.prop</mask>
       <mask>*.proper</mask>
       <mask>*.tml</mask>
       <mask>*.ml</mask>
@@ -15,7 +15,6 @@
       <mask>*.z</mask>
       <mask>*.xm</mask>
       <mask>*</mask>
-      <mask>*.xhml</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
       <mask>*.prope</mask>
@@ -33,9 +32,11 @@
       <mask>*.xht</mask>
       <mask>*.xhtm</mask>
       <mask>*.html</mask>
-      <mask>*.xhtml</mask>
       <mask>*.java</mask>
+      <mask>*.xtml</mask>
       <mask>*.xml</mask>
+      <mask>*.xhml</mask>
+      <mask>*.xhtml</mask>
     </recentFileMasks>
   </component>
 </application>
