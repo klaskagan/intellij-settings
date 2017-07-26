@@ -6,7 +6,6 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*.tml</mask>
       <mask>*.ml</mask>
       <mask>*.l</mask>
       <mask>*.zm</mask>
@@ -31,11 +30,12 @@
       <mask>*.xhtm</mask>
       <mask>*.html</mask>
       <mask>*.xtml</mask>
-      <mask>*.xml</mask>
       <mask>*.xhml</mask>
       <mask>*.xhtml</mask>
       <mask>java</mask>
       <mask>*.java</mask>
+      <mask>xml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
