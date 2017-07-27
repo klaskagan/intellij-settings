@@ -9,11 +9,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.xhtml" />
     <recentFileMasks>
-      <mask>*.ml</mask>
-      <mask>*.l</mask>
-      <mask>*.zm</mask>
-      <mask>*.z</mask>
       <mask>*.xm</mask>
       <mask>*</mask>
       <mask>*.pr</mask>
@@ -35,11 +32,15 @@
       <mask>*.html</mask>
       <mask>*.xtml</mask>
       <mask>*.xhml</mask>
-      <mask>*.xhtml</mask>
       <mask>xml</mask>
       <mask>*.xml</mask>
       <mask>java</mask>
       <mask>*.java</mask>
+      <mask>x</mask>
+      <mask>xh</mask>
+      <mask>xhtm</mask>
+      <mask>xhtml</mask>
+      <mask>*.xhtml</mask>
     </recentFileMasks>
   </component>
 </application>
