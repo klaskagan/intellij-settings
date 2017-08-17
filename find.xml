@@ -7,8 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
       <mask>*.prope</mask>
@@ -30,14 +30,15 @@
       <mask>xhtm</mask>
       <mask>xhtml</mask>
       <mask>ja</mask>
-      <mask>java</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.xml</mask>
       <mask>*.xhtml</mask>
+      <mask>jav</mask>
+      <mask>java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
