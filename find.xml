@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
       <mask>xml</mask>
@@ -24,7 +26,6 @@
       <mask>*.properties</mask>
       <mask>*.xh</mask>
       <mask>*.xhtm</mask>
-      <mask>*.xhtml</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
@@ -34,6 +35,7 @@
       <mask>*.billing-changelog.xml</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.xhtml</mask>
     </recentFileMasks>
   </component>
 </application>
